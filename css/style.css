@@ -1,0 +1,159 @@
+/* header */
+.header-div {
+    width: 1280px;
+    height: 900px;
+    margin:  0 auto;
+    background-image: url(../img/group5.jpg);
+     
+}
+
+.navigation { 
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.div-ul {
+    display: flex;
+    justify-content: space-around;
+}
+
+.list {
+    margin-right: 50px;
+    color: white;
+    font-weight: bold;
+    margin-top: 50px;
+}  
+
+.logo {
+    margin-top: 30px;
+    font-size: 30px;
+    color: white;
+    margin-left: 50px;
+    font-weight: bold;
+}
+
+/* section1 */
+
+.section1 {
+    width: 1280px;
+    height: 602px;
+    display: flex;
+    justify-content: space-between;
+    margin: 0 auto;
+}
+
+.box1 {
+    width: 640px;
+    height: 602px;
+}
+
+.buttom {
+    width: 220px;
+    height: 72px;
+    border-radius: 45%;
+    background-color: #325DFF; 
+    display: flex;
+    align-content: center;   
+}
+
+.view {
+    margin: 0 auto;
+    width: 200px; 
+    margin-top: 25px;
+}
+
+.box1-h2 {
+    margin: 0 auto;
+    font-size: 40px;
+    margin-bottom: 30px;
+    width:400px;
+    margin-top: 85px;    
+}
+
+.box1-p {
+    margin: 0 auto;
+    width: 400px;
+}
+
+.box2 {
+    width: 640px;
+    height: 602px;
+    background-image: url(../img/rectangle2.jpg);
+}
+
+.buttom-div {
+    width: 320px;
+    height: 72px;
+    margin: 0 auto;
+    margin-top: 100px;    
+}
+
+
+
+/* section2 */
+
+.section2 {
+    width: 1280px;
+    height: 1160px;
+    background-color:#EBEBEB;
+    margin: 0 auto;   
+}
+
+.section2-h4 {
+    width: 350px;
+    margin: 0 auto;
+    font-size: 35px;
+    padding-top: 50px;
+}
+    
+
+.section2-p {
+    width: 600px;
+    margin: 0 auto;
+    margin-top: 30px;   
+}
+
+.boxes {    
+    margin-top: 50px;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+
+.boxes-div {
+    width: 371px;
+    height: 374px;
+    background-color: white;
+    margin: 0 auto;
+    margin-right: 40px;
+    margin-bottom: 70px;
+  
+}
+  
+
+.bluebuttom {
+    width: 88px;
+    height: 88px;
+    background-color: #325DFF;
+    border-radius: 50%;
+    margin: 0 auto;
+    margin-top: 30px;
+}
+
+.boxes-h3 {
+    
+    margin: 0 auto;
+    margin-top: 40px;
+    width: 100px;
+}
+
+.boxes-p {
+    width: 300px;
+    margin: 0 auto;
+    margin-top: 30px;
+}
+
+
+
+
